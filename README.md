@@ -14,9 +14,10 @@ Victora is a modern, responsive, and feature-rich School Management System dashb
 - **Assignments & Grading**: Track homework, quizzes, and project submissions with real-time progress indicators.
 - **Internal Messaging**: Integrated messaging system connecting teachers, guardians, and administration.
 
-## 🚀 Deployment
+## 🚀 Live Demo & Deployment
 
-This project is deployed live on Vercel and version-controlled via GitHub.
+- **Live URL**: [https://victora-school-management.vercel.app](https://victora-school-management.vercel.app)
+- **GitHub Repository**: [https://github.com/ismailquadri/victora-school-management](https://github.com/ismailquadri/victora-school-management)
 
 ### Quick Start
 
